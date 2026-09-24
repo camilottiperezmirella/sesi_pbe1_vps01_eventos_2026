@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "cidade": "Campinas",
+        "tipo_evento": "Onda de calor",
+        "temperatura_maxima": 38.7,
+        "data": "2026-09-23",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 2,
+        "cidade": "São Paulo",
+        "tipo_evento": "Enchente",
+        "temperatura_maxima": 24.3,
+        "data": "2026-02-15",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 4,
+        "cidade": "Santos",
+        "tipo_evento": "Tempestade",
+        "temperatura_maxima": 27.1,
+        "data": "2026-03-28",
+        "nivel_impacto": "Alto"
+    },
+    {
+        "id": 5,
+        "cidade": "Sorocaba",
+        "tipo_evento": "Granizo",
+        "temperatura_maxima": 22.6,
+        "data": "2026-04-12",
+        "nivel_impacto": "Médio"
+    }
+]
